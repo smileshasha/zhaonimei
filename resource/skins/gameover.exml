@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="gameover" width="1024" height="768" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="1593e3700c1" width="1024" height="768"/>
+	<e:Image source="bg_canvas_jpg" x="5" y="-1" width="1024" height="768"/>
+</e:Skin>

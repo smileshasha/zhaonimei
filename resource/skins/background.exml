@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="background" width="1024" height="768" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="bgTile2_jpg" x="3.21" y="5.94"/>
+	<w:Config id="15930152ff4"/>
+</e:Skin>
